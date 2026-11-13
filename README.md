@@ -1,2 +1,2 @@
 # group1-web-project2026
-A group web system project during my 3rd year as BSIT student
+A group project website system during my 3rd year as BSIT student
